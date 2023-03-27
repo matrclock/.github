@@ -1,5 +1,4 @@
 # Matr Clock
 The open source, hackable, synchronized, self-hosted, multi-purpose, forever clock. 
 
-The Matr client is wafer thin, requiring only the ability to display an animated gif. 
-The Matr server is nearly as simply, requiring only a gif be served. Other features are optional, but strictly so. B client and server are easy to implement, reimplement, extend and hack. 
+Matr clocks works on a single server supplying one or more clients. While the original Matr clock is based on a slick LED RGB matrix display, there is no requirement that any given Matr clock be based on anything other than the ability to display a gif. The server simply serves a gif. The client simply displays it. 
